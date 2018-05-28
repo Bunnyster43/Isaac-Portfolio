@@ -3,16 +3,6 @@ body {
     background-color: #4aaaa5;
 }
 
-div.b {
-  float: left; 
-  color: black;
-  font-size: 30pt; 
-  text-align: top;
-  border:0;
-  margin-bottom: 0.5em;"
-  clear: both;
-}
-
 /*soical media*/
 /* Style all font awesome icons */
 .fa {
@@ -280,6 +270,7 @@ html {
   body {
     position: relative;
     margin: 0;
+    color: white;
     padding-bottom: 6rem;
     min-height: 100%;
     font-family: "Helvetica Neue", Arial, sans-serif;
