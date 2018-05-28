@@ -4,8 +4,13 @@ body {
 }
 
 div.b {
+  float: left; 
   color: black;
-  font-size: 30px;
+  font-size: 30pt; 
+  text-align: top;
+  border:0;
+  margin-bottom: 0.5em;"
+  clear: both;
 }
 
 /*soical media*/
