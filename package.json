@@ -1,0 +1,20 @@
+{
+  "name": "Isaac-Portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bunnyster43/Issac-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "Isaac Simental-Starr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bunnyster43/Issac-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Bunnyster43/Issac-Portfolio#readme"
+}
